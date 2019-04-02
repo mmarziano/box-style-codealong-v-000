@@ -208,7 +208,6 @@ img, video, audio, iframe, table, form {
 
 header {
   margin: 0 0 30px;
-  padding-top: 40px;
 }
 
 /*////////// NAVBAR //////////*/
@@ -314,7 +313,9 @@ background: linear-gradient(
 }
 /*////////// LOGO //////////*/
 
-
+#logo {
+  padding: 84px 0;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
